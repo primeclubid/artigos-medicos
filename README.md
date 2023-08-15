@@ -7,23 +7,23 @@ Abaixo uma lista de websites e conteúdos desenvolvidos por médicos e profissio
 
 # Clínicas
 
-01 - [Clínica Tiago Silveira - Dermatologia, Tricologia e Estética no Rio de Janeiro](https://tiagosilveira.med.br)
+01 - [Clínica Tiago Silveira - Clínica de Dermatologia, Tricologia e Estética no Rio de Janeiro](https://tiagosilveira.med.br)
 
-02 - [Clínica Flávia Freitas - Dermatologia, Tricologia e Estética em Belo Horizonte](https://erikafreiredermato.com.br)
+02 - [Clínica Flávia Freitas - Clínica de Dermatologia, Tricologia e Estética em Belo Horizonte](https://erikafreiredermato.com.br)
 
-03 - [Clínica Tomocenter - Exames de Imagem em BH](https://comocenter.com.br)
+03 - [Clínica Tomocenter - Clínica de Exames de Imagem em BH](https://comocenter.com.br)
 
 # Médicos
 
 04 - [Dr. Diego Silveira Lima - Blefaroplastia no Rio de Janeiro](https://drdiegosilveira.com.br)
 
-05 - [Dra. Érika Freire - Dermatologia, Tricologia e Estética em BH](https://erikafreiredermato.com.br)
+05 - [Dra. Érika Freire - Dermatologista e Tricologista em Belo Horizonte](https://erikafreiredermato.com.br)
 
-06 - [Dra. Beatriz Gonçalves - Angiologia e Varizes em Belo Horizonte](https://drabeatrizgoncalves.com.br)
+06 - [Dra. Beatriz Gonçalves - Angiologista e Varizes em Belo Horizonte](https://drabeatrizgoncalves.com.br)
 
 07 - [Dra. Bárbara Figueiredo - Dermatologista e Tricologista em São Paulo capital](https://barbarafigueiredodermato.com.br)
 
-08 - [Dra. Marina Fantini - Cardiopediatria em Belo Horizonte](https://marinafantini.com.br)
+08 - [Dra. Marina Fantini - Cardiopediatra em Belo Horizonte](https://marinafantini.com.br)
 
 # Moda, Beleza e Estética
 
